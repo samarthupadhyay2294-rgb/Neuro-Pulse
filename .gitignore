@@ -1,0 +1,11 @@
+node_modules/
+frontend/dist/
+backend/venv/
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/reports/output/*
+!backend/reports/output/.gitkeep
+__pycache__/
+*.pyc
+.env
+.DS_Store

@@ -1,0 +1,106 @@
+[
+  {
+    "session_id": "ec1be11d-48a5-41d4-a0f4-037a3d97976e",
+    "symptoms": {
+      "resting_tremor": 1,
+      "bradykinesia": 1,
+      "muscle_stiffness": 1,
+      "balance_problem": 0,
+      "walking_difficulty": 2,
+      "handwriting_change": 1,
+      "voice_change": 1,
+      "facial_expression_change": 2,
+      "daily_activity_difficulty": 1,
+      "sleep_disorder": 2,
+      "smell_loss": 1,
+      "rigidity_issue": 1
+    },
+    "voice": null,
+    "symptoms_only": true,
+    "result": {
+      "ml_prediction": 1,
+      "ml_confidence": 0.674,
+      "confidence_percent": 67.4,
+      "symptom_score": 14,
+      "risk_level": "Medium Risk",
+      "recommendation": "Your results suggest MEDIUM risk. We recommend consulting a neurologist for clinical evaluation. Early detection significantly improves outcomes.",
+      "symptom_summary": "Notable symptoms: Walking Difficulty, Facial Expression Change, Sleep Disorder",
+      "voice_summary": "Voice analysis was not provided. Risk estimate is based on your 12 symptom questionnaire responses only.",
+      "voice_included": false,
+      "assessment_type": "symptoms_only"
+    },
+    "language": "en",
+    "audio_url": "",
+    "user_id": null,
+    "id": "3fc7204a-a4d5-47d2-baa5-2dffd12e28c1",
+    "created_at": "2026-05-21T10:59:03.276277+00:00"
+  },
+  {
+    "session_id": "4f234776-818e-4b03-94f1-d87f5f4dbab1",
+    "symptoms": {
+      "resting_tremor": 0,
+      "bradykinesia": 1,
+      "muscle_stiffness": 1,
+      "balance_problem": 1,
+      "walking_difficulty": 1,
+      "handwriting_change": 1,
+      "voice_change": 1,
+      "facial_expression_change": 1,
+      "daily_activity_difficulty": 2,
+      "sleep_disorder": 1,
+      "smell_loss": 1,
+      "rigidity_issue": 2
+    },
+    "voice": null,
+    "symptoms_only": true,
+    "result": {
+      "ml_prediction": 0,
+      "ml_confidence": 0.5059,
+      "confidence_percent": 50.6,
+      "symptom_score": 13,
+      "risk_level": "Medium Risk",
+      "recommendation": "Your results suggest MEDIUM risk. We recommend consulting a neurologist for clinical evaluation. Early detection significantly improves outcomes.",
+      "symptom_summary": "Notable symptoms: Daily Activity Difficulty, Rigidity Issue",
+      "voice_summary": "Voice analysis was not provided. Risk estimate is based on your 12 symptom questionnaire responses only.",
+      "voice_included": false,
+      "assessment_type": "symptoms_only"
+    },
+    "language": "en",
+    "id": "fb2b36d6-e27d-40a1-a669-56fe8969fab1",
+    "created_at": "2026-05-21T08:07:30.088208+00:00"
+  },
+  {
+    "session_id": "f727c989-d4af-4d35-9834-04c481e2a232",
+    "symptoms": {
+      "resting_tremor": 0,
+      "bradykinesia": 3,
+      "muscle_stiffness": 2,
+      "balance_problem": 1,
+      "walking_difficulty": 0,
+      "handwriting_change": 2,
+      "voice_change": 1,
+      "facial_expression_change": 1,
+      "daily_activity_difficulty": 0,
+      "sleep_disorder": 1,
+      "smell_loss": 2,
+      "rigidity_issue": 1
+    },
+    "voice": null,
+    "symptoms_only": true,
+    "result": {
+      "ml_prediction": 1,
+      "ml_confidence": 0.7349,
+      "confidence_percent": 73.5,
+      "symptom_score": 14,
+      "risk_level": "Medium Risk",
+      "recommendation": "Your results suggest MEDIUM risk. We recommend consulting a neurologist for clinical evaluation. Early detection significantly improves outcomes.",
+      "symptom_summary": "Notable symptoms: Bradykinesia, Muscle Stiffness, Handwriting Change, Smell Loss",
+      "voice_summary": "Voice analysis was not provided. Risk estimate is based on your 12 symptom questionnaire responses only.",
+      "voice_included": false,
+      "assessment_type": "symptoms_only"
+    },
+    "language": "en",
+    "id": "76a0016f-09b0-41c2-bed5-3914694e963a",
+    "created_at": "2026-05-21T08:04:28.145915+00:00"
+  }
+]
